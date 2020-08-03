@@ -1,0 +1,6 @@
+help of jhch:
+    jhch [arg]
+    arg:
+        None->shell
+        filename(.jhch)->runfile
+        -h->help
